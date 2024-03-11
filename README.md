@@ -8,9 +8,11 @@
 
 ---  
 #### Key Points:  
-* Lightning data assimilation was applied in the KF and KF-CuP convective parameterization in WRF-Chem.  
-* A novel version of lightning data assimilation improves the representation of convective storms, particularly in terms of rainfall intensity and location accuracy.  
-* LDA simulation improves the location of cloud top height yet continues to underestimate the tallest clouds and rainfall in MCS case, while overestimating in the supercell.
+* Lightning data assimilation was applied in the KF and KF-CuP convective parameterizations in WRF-Chem.
+*	A novel version of lightning data assimilation improves the representation of convective storms, particularly for rainfall intensity and location accuracy.
+*	LDA simulation improves cloud top height yet continues to underestimate the tallest clouds and rainfall in the MCS case, while overestimating in the supercell. 
+![image](https://github.com/cansud98/Effectiveness-of-LDA-on-DC-Article/assets/81981060/4198eab4-8a29-43c9-a5cd-2dd30f311e21)
+
 
 ---   
 
